@@ -1,0 +1,12 @@
+.menu-item {
+	display: inline;
+	zoom: 1;
+}
+.field-msg { margin-top: 0 }
+.thumbnail {
+	border: 1px solid #cecece;
+	margin: -1px;
+}
+a:hover .thumbnail,
+a:focus .thumbnail,
+a:active .thumbnail { border-color: #333 }
